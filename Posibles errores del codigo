@@ -1,3 +1,0 @@
-•	Que el producto no exista, Ya que como se pide la solicitud por teclado, el usuario puede ingresar un producto que no exista o no lo encuentre como está creado en el código. 
-•	También errores que se puedan dar por condicionales que no cumplan el objetivo. Que en vez de decir rol == al Rol que entro por consola el usuario diga que es diferente, cuando dentro de esa condición cumplía el igual.
-•	Que el ciclo o repeticiones supere el número de productos que el usuario quiere comprar generando un valor de más sin necesidad.
