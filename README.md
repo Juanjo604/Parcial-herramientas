@@ -1,1 +1,1 @@
-# Parcial-herramientas Computacionales
+# Parcial Herramientas Computacionales
